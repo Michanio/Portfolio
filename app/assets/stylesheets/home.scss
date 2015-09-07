@@ -1,0 +1,33 @@
+.first-slide{
+  background-color: #00b08d;
+  background-image: url('facio.svg');  
+  background-position:  center top;
+  background-size:  100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  
+  .content{
+    color: white;
+    margin-top: 3em;
+    margin-bottom: 3em;
+    
+    background-color: rgba(0,0,0,0.3);
+    h2{
+      font-size: 2em;
+      color: white;
+    }
+    p{
+      font-size: 1.5em;
+      margin-bottom: 0;
+    }
+
+  }
+}
+
+.second-slide{
+    background-color: white;
+}
+
+.third-slide{  
+  background-color: #e5e5e5;
+}
